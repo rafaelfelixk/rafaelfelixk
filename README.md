@@ -3,7 +3,7 @@
 
 So this is my brief apresentation, hope you like it! There's some topics and interesting easter eggs scattered throughout the code 👨🏽‍💻
 
-🇧🇷/🇺🇸
+🇧🇷/🇺🇸/🇩🇪
 ```go
 
 
