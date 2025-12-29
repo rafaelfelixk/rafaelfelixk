@@ -1,14 +1,12 @@
+<h2>Hey Mate! Welcome to my GitHub.</h2>
+<img src="assets/bgV.gif" width="50" align="right">
+<p> 
+    Below you'll find more info about me. I'll try to keep it brief! I'm a student currently in High School, and I'm teaching myself Tech and languages (English and German) on the side.
+    I've had my eyes on Go ever since I discovered it. I really appreciate its simplicity, efficiency, and clean code. That's it! Enjoy!
+</p>
 
-# Hey, I'm Rafael!
 
-So this is my brief apresentation, hope you like it! There's some topics and interesting easter eggs scattered throughout the code 👨🏽‍💻
-
-🇧🇷/🇺🇸/🇩🇪
 ```go
-
-
-
-
 package main 
 import (
 	"fmt"
@@ -186,8 +184,8 @@ func main() {
 	}
 } // Since this file owns a main() function, you can run it whenever you want to.
 ```
-How rude of me! I haven't talked to you guys since this whole code appeared! Well. Honestly, I'm aiming to join college when I finish High School, I have a bunch of dreams and goals.
+How rude of me! I haven't talked to you guys directly since this whole code appeared! Well. Honestly, I'm aiming to join college when I finish High School, I have a bunch of dreams and goals.
 What am I saying? Everyone's got this. Well, I made this GitHub profile just to play a lil bit so don't take it seriously. This is totally unprofessional (I'm not a professional)
 Hope you guys enjoy my profile and my README, it took such a long time to write! 
 
-The code is very basic, but it's honest. I don't know much about Golang and its features so far, but I tried to tell my story!
+
