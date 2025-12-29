@@ -178,6 +178,7 @@ func main() {
             fmt.Printf("  Note: %s\n", o)
         }
     }
+	// Games
 	fmt.Println("\n---- Games ----")
 	for _, game := range GetFavoriteGames() {
 		fmt.Println(game)
